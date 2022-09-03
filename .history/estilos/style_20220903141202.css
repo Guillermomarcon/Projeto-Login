@@ -35,22 +35,6 @@ section#login {
     width: 250px;
     height: 500px;
     border-radius: 20px;
-    overflow: auto;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.527);
-
 }
 
-section#login > div#imagem {
-    display: block;
-    background: #5f2c82 url(../imagens/pexels-pixabay-271639.jpg) no-repeat;
-    background-size: cover;
-    background-position: left bottom ;
-    height: 200px;
-
-}
-
-section#login > div#formulário {
-    display: block;
-    padding: 10px;
-
-}
+sec
