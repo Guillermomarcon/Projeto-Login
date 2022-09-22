@@ -16,13 +16,13 @@ lilas #5f2c82
 
 body, html {
     background-color:#5f2c82 ;
-    height: 100vh;
-    width: 100vw;
+    height: 100v;
+    width: 100vh;
 }
 main {
     position: relative;
 
-    height: 100vh;
+    height: 100vw;
     width: 100vw;
 }
  
@@ -49,7 +49,7 @@ section#login > div#imagem {
 
 }
 
-section#login > div#formulario {
+section#login > div#formulário {
     display: block;
     padding: 10px;
 
